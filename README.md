@@ -1,26 +1,76 @@
-<h1 align="center">Hi 👋, I'm Siddharth Rajawat</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h1 align="center">
+  Hi there 👋, I'm Siddharth Rajawat  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28"/>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddh-arthh&label=Profile%20views&color=0e75b6&style=flat" alt="siddh-arthh" /> </p>
+<h3 align="center">🚀 Aspiring Data Analyst | Retail + Marketing + Machine Learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddh-arthh" alt="siddh-arthh" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Marketing, retail, sql, powerbi, business efficacy**
-
-- 📫 How to reach me **siddharthrajawat2001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddharth-rajawat-5847a8230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddharth-rajawat-5847a8230/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddh-arthh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Python-Developer-yellow?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Lover-Data%20Driven-blue?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddh-arthh&show_icons=true&locale=en&layout=compact" alt="siddh-arthh" /></p>
+### 👨‍💻 About Me:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddh-arthh&show_icons=true&locale=en" alt="siddh-arthh" /></p>
+- 🔍 Exploring the world of **Data & Machine Learning**  
+- 📊 Passionate about **Retail Strategy, Marketing, and Analytics**
+- 🛠️ Tools: Python | Pandas | SQL | Power BI | Excel | Scikit-learn  
+- 💬 Ask me about:  
+  `Marketing 📈` | `Retail 📦` | `SQL 🔍` | `Power BI 📊` | `Business Efficiency ⚙️`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddh-arthh&" alt="siddh-arthh" /></p>
+- 📬 Reach me at: **siddharthrajawat2001@gmail.com**
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/siddharth-rajawat-5847a8230/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:siddharthrajawat2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,pandas,numpy,scikit-learn,seaborn,git,github,vscode,excel,powerbi" />
+</p>
+
+---
+
+### 🏆 Achievements & Stats
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=siddh-arthh&theme=monokai" alt="Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddh-arthh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddh-arthh&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddh-arthh&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📌 Fun Fact
+
+> 🧠 I love turning messy data into business magic 🪄  
+> 💪 Never back down from a good challenge — especially if it involves Excel or SQL!
+
+---
