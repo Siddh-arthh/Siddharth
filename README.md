@@ -23,7 +23,7 @@
 ## 👨‍💼 About Me
 
 - 📊 Passionate about **Markeeting, Retail, and  Strategy**  
-- 🧠 Currently diving deep into **Machine Learning & Business Analytics**
+- 🧠 Currently diving deep into **Machine Learning & Analytics**
 - 💬 Ask me about:  
   `SQL` • `Power BI` • `Excel Dashboards` • `Retail Strategy` • `Business`
 
